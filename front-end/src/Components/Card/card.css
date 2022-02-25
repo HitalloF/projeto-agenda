@@ -1,0 +1,22 @@
+.card {
+  background-color: white;
+  width: content;
+  margin: auto;
+  box-shadow: 2px 2px 4px black;
+}
+.card_name {
+  font-size: 2rem;
+  margin: auto;
+  text-align: center;
+  align-items: center;
+  padding: 10px;
+}
+.card_numero {
+  font-size: 1.2rem;
+  margin: auto;
+  text-align: center;
+  align-items: center;
+}
+.card_opt {
+  display: flex;
+}

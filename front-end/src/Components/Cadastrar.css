@@ -1,0 +1,32 @@
+.cadastro--container {
+  background: black;
+  display: flex;
+  padding: 5px;
+  margin: auto;
+  justify-content: space-between;
+}
+.cadastro--container h1 {
+  color: white;
+  font-weight: bolder;
+  margin: auto;
+  display: none;
+}
+.registro-- {
+  display: flex;
+  margin: auto;
+  padding: 15px;
+}
+
+@media screen and (max-width: 600px) {
+  body {
+    background-color: black;
+  }
+  .registro-- {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  .botao {
+    margin: auto;
+    flex-wrap: wrap;
+  }
+}

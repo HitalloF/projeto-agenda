@@ -1,0 +1,14 @@
+.header {
+  background-color: #deb877;
+  width: content;
+  margin: auto;
+  box-shadow: 2px 2px 4px black;
+  padding: 20px;
+}
+.header_title {
+  font-size: 2rem;
+  margin: auto;
+  text-align: center;
+  align-items: center;
+  text-transform: capitalize;
+}
